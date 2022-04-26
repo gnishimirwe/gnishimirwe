@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gnishimirwe
 - 👀 I’m interested in #DataScience
 - 🌱 I’m currently learning #AI and DeepLearning
-- 💞️ I’m looking to collaborate on #Models
+- 💞️ I’m looking to collaborate on #ML Models
 - 📫 How to reach me #gnishimirwe@gmail.com
 
 <!---
