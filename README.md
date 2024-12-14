@@ -2,7 +2,6 @@
 - 👀 I’m interested in #DataScience
 - 🌱 I’m currently learning #AI and DeepLearning
 - 💞️ I’m looking to collaborate on #ML Models
-- 📫 How to reach me #gnishimirwe@gmail.com
 
 <!---
 gnishimirwe/gnishimirwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
